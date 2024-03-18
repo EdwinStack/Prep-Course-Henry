@@ -1,2 +1,1 @@
-# Prep-Course-Henry2
-este es un repositorio de prueba del modulo 2 de Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde gituhub a mi computadora
